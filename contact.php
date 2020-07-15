@@ -15,6 +15,8 @@
 
 <body>
     
+    
+<!--
     <div id="preloader">
         <div class="load-wrapp">
             <div class="load-10">
@@ -23,7 +25,7 @@
                 <div class="bar"></div>
             </div>
         </div>
-    </div>
+    </div>-->
 
     <div class="w3-bar w3-black w3-hide-small">
         <a href="connexion.php" class="w3-bar-item w3-button w3-right">Connexion</i></a>
