@@ -1,4 +1,3 @@
-    <!--<link rel="stylesheet" href="style/vitrine.css">-->
 <!DOCTYPE html>
 
     <link rel="stylesheet" type="text/css" href="index.css" media="screen" />
@@ -14,18 +13,6 @@
     </head>
 
 <body>
-    
-    
-<!--
-    <div id="preloader">
-        <div class="load-wrapp">
-            <div class="load-10">
-                <p>Devblog experience</p>
-                <p class="txtloading">By Perrine Metz.</p>
-                <div class="bar"></div>
-            </div>
-        </div>
-    </div>-->
 
     <div class="w3-bar w3-black w3-hide-small">
         <a href="connexion.php" class="w3-bar-item w3-button w3-right">Connexion</i></a>
@@ -37,7 +24,7 @@
     <div class="w3-bar w3-black w3-bottom w3-hide-small">
         <a href="#" class="w3-bar-item w3-button"><i class="fa fa-instagram"></i></a>
         <a href="#" class="w3-bar-item w3-button"><i class="fa fa-linkedin"></i></a>
-        <a href="#" class="w3-bar-item w3-button w3-right">perrine.metz@jesaispas.com</i></a>
+        <a href="#" class="w3-bar-item w3-button w3-right">perrine.metz@iseg.fr</i></a>
     </div>
 
     <div class="contenu">
@@ -59,6 +46,5 @@
 
     <footer></footer>
 
-    <script src="index.js"></script>
 </body>        
 </html>
