@@ -31,7 +31,7 @@
 
     <section>
         <div class="container">
-            <p class="desc1">Hi,<br/>Welcome to my DevBlog experience.</p>
+            <p class="desc1">Hi,<br/>Welcome to my DevBlog.</p>
             <a class="txt">By Perrine Metz.</a>
             <p class="desc2">Bienvenue sur mon DevBlog. Je m’appelle Perrine et je suis étudiante en première année à l’ISEG à Strasbourg. Pendant 4 semaines j’ai appris grâce au Summer Code Camp à utiliser des notions de programmation. Je me suis ouverte à un nouveau domaine, chose que je n’aurai peut-être pas fait si cette formation ne m’avait pas été proposée. J’ai développé ce blog afin de vous partager quelques-unes des notions que j’ai pu apprendre.</p>
         </div>
