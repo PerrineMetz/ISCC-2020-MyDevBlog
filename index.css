@@ -92,22 +92,6 @@ body section {
     font-size: 44px;
 }
 
-.load-10 .bar {
-    animation: loadingJ 2s cubic-bezier(0.17, 0.37, 0.43, 0.67) infinite;
-}
-
-@keyframes loadingJ {
-    0%, 100% {
-        transform: translate(0, 0);
-    }
-
-    50% {
-        transform: translate(80px, 0);
-        background-color: #f5634a;
-        width: 25px;
-    }
-}
-
 .contenu{ 
     width: 810px;
     margin-left:auto;
