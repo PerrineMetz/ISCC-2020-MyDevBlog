@@ -15,18 +15,14 @@
     <div class="w3-bar w3-black w3-hide-small">
         <a href="connexion.php" class="w3-bar-item w3-button w3-right">Connexion</i></a>
         <a href="accueil.php" class="w3-bar-item w3-button w3-right">Accueil</i></a>
-        <a href="" class="w3-bar-item w3-button w3-right">Articles</i></a>
+        <a href="articles.php" class="w3-bar-item w3-button w3-right">Articles</i></a>
         <a href="contact.php" class="w3-bar-item w3-button w3-right">Contact</i></a>
     </div>
 
-    <div class="w3-bar w3-black w3-bottom w3-hide-small">
-        <a href="#" class="w3-bar-item w3-button"><i class="fa fa-instagram"></i></a>
-        <a href="#" class="w3-bar-item w3-button"><i class="fa fa-linkedin"></i></a>
-        <a href="#" class="w3-bar-item w3-button w3-right">perrine.metz@iseg.fr</i></a>
-    </div>
+   
 
     <div class="contenu">
-        <h2 class="txt">Contact</h2>
+        <h2 class="text">Contact</h2>
 
         <form>
             <div>
@@ -39,10 +35,13 @@
             </div>
         </form>
     </div>
-
-
-
-    <footer></footer>
-
+    <footer>
+        <div class="w3-bar w3-black w3-bottom w3-hide-small">
+            <a href="https://www.instagram.com/perrinemetz/?hl=fr" class="w3-bar-item w3-button"><i class="fa fa-instagram"></i></a>
+            <a href="https://fr.linkedin.com/in/perrine-metz-4a6445198" class="w3-bar-item w3-button"><i class="fa fa-linkedin"></i></a>
+            <a href="contact.php" class="w3-bar-item w3-button w3-right">perrine.metz@iseg.fr</i></a>
+        </div>
+    </footer>
+    
 </body>        
 </html>
